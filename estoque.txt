@@ -1,0 +1,10 @@
+Nome do Produto: 1KG de Carne Bovina, Preço: 20.00, Quantidade Disponível: 198
+Nome do Produto: Arroz, Preço: 3.00, Quantidade Disponível: 134
+Nome do Produto: Feijão, Preço: 4.00, Quantidade Disponível: 178
+Nome do Produto: Nescau, Preço: 7.00, Quantidade Disponível: 236
+Nome do Produto: leite, Preço: 0.00, Quantidade Disponível: 235
+Nome do Produto: canela, Preço: 2.00, Quantidade Disponível: 78
+Nome do Produto: canela, Preço: 2.00, Quantidade Disponível: 124
+Nome do Produto: Cuscuz, Preço: 5.00, Quantidade Disponível: 256
+Nome do Produto: Farinha, Preço: 2.00, Quantidade Disponível: 89
+Nome do Produto: Cafe, Preço: 5.00, Quantidade Disponível: 178
